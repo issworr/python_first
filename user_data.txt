@@ -1,0 +1,2 @@
+{"username": "suku", "password": "suku12", "balance": 245500}-
+{"username": "vens", "password": "vens12", "balance": 0}-
